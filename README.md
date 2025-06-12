@@ -24,7 +24,7 @@ This repository documents my journey of becoming a proficient Blockchain Develop
 ## 👨‍💻 About Me
 
 I'm Sahil Abbas, passionate about blockchain development and decentralization.  
-Currently doing a focused 6-month deep dive into smart contract engineering using Solidity and Foundry.
+Currently doing a focused  into smart contract engineering using Solidity and Foundry.
 
 ---
 
