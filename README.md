@@ -105,3 +105,10 @@ forge test
 # 4. Deploy contract locally
 anvil
 forge script script/DeploySimpleStorage.s.sol:DeploySimpleStorage --rpc-url http://127.0.0.1:8545 --broadcast --private-key YOUR_PRIVATE_KEY
+
+📫 Contact
+GitHub: https://github.com/
+
+LinkedIn: https://www.linkedin.com/in/abbas45/
+
+Email: sahilabbas654@gmail.com
