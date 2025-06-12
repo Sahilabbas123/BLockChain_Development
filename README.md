@@ -131,6 +131,6 @@ I'm always open to learning, collaborating, or contributing to Web3 projects.
 
 🐙 GitHub: github.com/sahilabbas
 
-💼 LinkedIn: linkedin.com/in/abbas45
+💼 LinkedIn: www.linkedin.com/in/abbas45
 
 📧 Email: sahilabbas654@gmail.com
