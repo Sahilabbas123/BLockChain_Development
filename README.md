@@ -101,6 +101,7 @@ My goal is to **build scalable, secure, and real-world decentralized application
 - **Hardhat** (for initial testing)
 - **Metamask**, **Alchemy**
 - **Git & GitHub** for version control
+- **JavaScipt
 
 ---
 
